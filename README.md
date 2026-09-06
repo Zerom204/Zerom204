@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a student developer obsessed with AI & Backend Systems.
+I'm Indranil Mukhopadhyay a developer obsessed with AI & Backend Systems.
 
 I'm currently navigating my tech studies while turning complex machine learning concepts into fast, usable applications.
 
